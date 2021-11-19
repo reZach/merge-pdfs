@@ -14,10 +14,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Inputs\1 Check_Reimbursement_Request(StudentOrg) 2.pdf">
+    <None Update="Inputs\file1.pdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="Inputs\2 FIC T-shirts 2021 Invoice.pdf">
+    <None Update="Inputs\file2.pdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
